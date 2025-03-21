@@ -31,9 +31,7 @@ export const Footer = () => {
             </div>
             <div className="footer-top__logo">
               <Link href="/">
-                <a>
-                  <img src={footerLogo} className="js-img" alt="" />
-                </a>
+                <h2 className="f-logo">BeautyShop</h2>
               </Link>
             </div>
 
