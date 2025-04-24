@@ -68,13 +68,13 @@ export const Footer = () => {
                 </li>
                 <li>
                   <i className="icon-mail"></i>
-                  <a href="mailto:info@beshop.com">info@beshop.com</a>
+                  <a href="mailto:info@beshop.com">info@beautyshop.com</a>
                 </li>
               </ul>
             </div>
           </div>
           <div className="footer-copy">
-            <span>&copy; All rights reserved. Md Tanvir 2025</span>
+            <span>&copy; ©2025 Copyrights by BeautyShop. designed Mujahid</span>
           </div>
         </div>
       </footer>
